@@ -1,21 +1,14 @@
 ---
-title: La Palma Earthquakes
+title: 서울대학교 논문 작성 연습
 author:
-  - name: Steve Purves
-    orcid: 0000-0002-0760-5497
+  - name: Soojung Kim
     corresponding: true
-    email: steve@curvenote.com
+    email: mymid@snu.ac.kr
     roles:
       - Investigation
       - Project administration
       - Software
       - Visualization
-    affiliations:
-      - Curvenote
-  - name: Rowan Cockett
-    orcid: 0000-0002-7859-8394
-    corresponding: false
-    roles: []
     affiliations:
       - Curvenote
 keywords:
